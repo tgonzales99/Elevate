@@ -18,7 +18,7 @@ McKell blends analytical rigor with heartfelt leadership. She holds a Master of 
 
 Her ELEVATE! program draws from her personal journey and her work coaching high-potential professionals, turning professional branding into a strategic superpower. McKell believes your career is not just about advancement—it’s about unlocking the life you were meant to live. Her message is bold and electrifying:
 
-> “When you're stuck in your mind, you're stuck in your life. Promotion starts long before someone says ‘yes’—it begins the moment you see yourself differently.”
+> When you're stuck in your mind, you're stuck in your life. Promotion starts long before someone says ‘yes’—it begins the moment you see yourself differently.
 
 She teaches that your current role is your best training ground and that your work is your gift to the world. Her interactive, practical, and deeply personal sessions help professionals clarify their brand, raise their visibility, and align with the opportunities they deserve.
 
