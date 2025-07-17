@@ -7,7 +7,7 @@ main:
     url: /#top
     weight: 10
   - name: About the Program
-    url: /#about
+    url: /#program
     weight: 20
   - name: Program Highlights
     url: /#features
