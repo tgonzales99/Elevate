@@ -12,7 +12,7 @@ sections:
     content:
       title: Empower your career with ELEVATE!
       text: 🌟 A professional career advancement program designed to help you rise 🌟
-      image: PNG-elevate-logo.png
+      image: PNG-elevate-logo-new.png
       primary_action:
         text: I'm Ready to ELEVATE!
         url: https://hugoblox.com/templates/
@@ -23,7 +23,7 @@ sections:
       announcement:
         text: "Register for the Fall 2025 Workshop"
         link:
-          text: "Register today"
+          text: "Today"
           url: "/blog/"
     design:
       spacing:
@@ -66,7 +66,7 @@ sections:
     content:
       title: "About the ELEVATE! Program"
       text: >
-        <img src="/media/elevate-logo.png" alt="ELEVATE Logo" style="max-height: 120px; display: block; margin: 0 auto 1.5rem auto;"><br>
+        <img src="/media/PNG-elevate-logo-new.png" alt="ELEVATE Logo" style="max-height: 120px; display: block; margin: 0 auto 1.5rem auto;"><br>
 
         <span style="font-size:1.125rem; text-align: center; display: block;">
         <strong>Stop Waiting. Start Winning.</strong><br>
