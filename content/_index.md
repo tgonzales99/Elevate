@@ -42,16 +42,17 @@ sections:
         <img src="/media/PNG-elevate-logo-new.png" alt="ELEVATE Logo" style="max-height: 120px; display: block; margin: 0 auto 1.5rem auto;"><br>
 
         <span style="font-size:1.125rem; text-align: center; display: block;">
-        <strong>Stop Waiting. Start Winning.</strong><br>
-        It’s time to get promoted—on purpose.
-        <br><br>
-        The <strong>ELEVATE! Career Advancement Program</strong> is a proven, high-impact system designed for ambitious professionals who are ready to rise with confidence, command their worth, and finally get the recognition and promotion they deserve.
-        <br><br>
-        Created by McKell Purnell, ELEVATE! helps high-performing individuals show up, stand out, and step into their next level with bold clarity and unstoppable confidence.
-        <br><br>
-        Whether you’re aiming to move from middle management, break into the executive suite, or make a bold career transition, ELEVATE! gives you the tools, templates, and truth you need to accelerate your advancement.
-        <br><br>
-        <strong>Your next move doesn’t require more degrees or more time—it requires a strategy.</strong> That’s exactly what we build together.
+        <strong>Your Career Is Calling. Are You Ready to Answer?</strong><br><br>
+
+         The <strong>ELEVATE! Workshop</strong> is a 1-day, dynamic, and interactive experience designed for high-potential professionals who are ready to take control of their career trajectory.<br><br>
+
+         This isn’t about motivation—it’s about execution.<br><br>
+
+         You’ll learn how to <strong>lead, brand, and ask</strong> your way into your next promotion, with a focus on strategic presence, visibility, and professional clarity.<br><br>
+
+        Spots are limited. Don’t miss your chance to rise.<br><br>
+
+        <em>Don’t wait to be chosen. Choose yourself.</em>
         </span>
     design:
       css_class: bg-gray-100
