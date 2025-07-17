@@ -19,7 +19,7 @@ sections:
         icon: arrow-right
       secondary_action:
         text: Learn More About Our Founder
-        url: https://docs.hugoblox.com
+        url: /founder/
       announcement:
         text: "Register for the Fall 2025 Workshop"
         link:
