@@ -15,16 +15,11 @@ sections:
       image: SVG-elevate-logo-new.svg
       primary_action:
         text: I'm Ready to ELEVATE!
-        url: https://hugoblox.com/templates/
+        url: /contact/
         icon: arrow-right
       secondary_action:
         text: Learn More About Our Founder
         url: /founder/
-      announcement:
-        text: "Register for the Fall 2025 Workshop"
-        link:
-          text: "Today"
-          url: "/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
