@@ -29,14 +29,15 @@ sections:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: "bg-gradient-to-r from-blue-600 via-green-500 to-gray-300 text-white"
+      css_class: "dark text-white"
       background:
-        color: ""
+        color: "#00A86B" # Jade Background
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
+          filename: Escalator-photo.svg
           filters:
             brightness: 0.5
+            
   - block: stats
     content:
       items:
