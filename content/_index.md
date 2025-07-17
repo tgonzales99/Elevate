@@ -12,7 +12,7 @@ sections:
     content:
       title: Empower your career with ELEVATE!
       text: 🌟 A professional career advancement program designed to help you rise 🌟
-     image: PNG-elevate-logo.png
+      image: PNG-elevate-logo.png
       primary_action:
         text: I'm Ready to ELEVATE!
         url: https://hugoblox.com/templates/
