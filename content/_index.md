@@ -58,34 +58,34 @@ sections:
       css_class: bg-gray-100
       
   - block: features
-  id: features
-  content:
-    title: ELEVATE!
-    text: Program Highlights
-    items:
-      - name: Strategic Career Planning
-        icon: calendar-days
-        description: Create a personalized advancement roadmap that aligns your current role with your long-term vision.
+    id: features
+    content:
+      title: ELEVATE!
+      text: Program Highlights
+      items:
+        - name: Strategic Career Planning
+          icon: calendar-days
+          description: Create a personalized advancement roadmap that aligns your current role with your long-term vision.
 
-      - name: Personal Branding
-        icon: user-circle
-        description: Learn how to confidently communicate your value, stand out in your industry, and attract the right opportunities.
+        - name: Personal Branding
+          icon: user-circle
+          description: Learn how to confidently communicate your value, stand out in your industry, and attract the right opportunities.
 
-      - name: Promotion Readiness
-        icon: trending-up
-        description: Understand the invisible rules of promotion, and develop the presence, clarity, and language to get to the next level.
+        - name: Promotion Readiness
+          icon: trending-up
+          description: Understand the invisible rules of promotion, and develop the presence, clarity, and language to get to the next level.
 
-      - name: Communication Power
-        icon: microphone
-        description: Master high-impact communication skills to speak with authority and authenticity—whether in meetings, reviews, or interviews.
+        - name: Communication Power
+          icon: microphone
+          description: Master high-impact communication skills to speak with authority and authenticity—whether in meetings, reviews, or interviews.
 
-      - name: Visibility Strategy
-        icon: eye
-        description: Move from being overlooked to being recognized, with practical tactics to increase your influence and executive exposure.
+        - name: Visibility Strategy
+          icon: eye
+          description: Move from being overlooked to being recognized, with practical tactics to increase your influence and executive exposure.
 
-      - name: Mindset Shift
-        icon: sparkles
-        description: Replace self-doubt with strategic confidence so you stop waiting to be chosen and start choosing yourself.
+        - name: Mindset Shift
+          icon: sparkles
+          description: Replace self-doubt with strategic confidence so you stop waiting to be chosen and start choosing yourself.
 
   - block: cta-image-paragraph
     id: solutions
