@@ -61,26 +61,27 @@ sections:
       spacing:
         padding: ["1rem", 0, "1rem", 0]
  
-  - block: markdown
+    - block: markdown
     id: program
     content:
       title: >
         About the ELEVATE! Program
       text: >
         <img src="/media/PNG-elevate-logo.png" alt="ELEVATE Logo" style="max-height: 120px; display: block; margin: 0 auto 1.5rem auto;">
-        
+
         <span style="font-size:1.125rem; text-align: center; display: block;">
-      <strong>Stop Waiting. Start Winning.</strong><br>
-      It’s time to get promoted—on purpose.
-      <br><br>
-      The <strong>ELEVATE! Career Advancement Program</strong> is a proven, high-impact system designed for ambitious professionals who are ready to rise with confidence, command their worth, and finally get the recognition and promotion they deserve.
-      <br><br>
-      Created by McKell Purnell, ELEVATE! helps high-performing individuals show up, stand out, and step into their next level with bold clarity and unstoppable confidence.
-      <br><br>
-      Whether you’re aiming to move from middle management, break into the executive suite, or make a bold career transition, ELEVATE! gives you the tools, templates, and truth you need to accelerate your advancement.
-      <br><br>
-      <strong>Your next move doesn’t require more degrees or more time—it requires a strategy.</strong> That’s exactly what we build together.
-      </span>
+        <strong>Stop Waiting. Start Winning.</strong><br>
+        It’s time to get promoted—on purpose.
+        <br><br>
+        The <strong>ELEVATE! Career Advancement Program</strong> is a proven, high-impact system designed for ambitious professionals who are ready to rise with confidence, command their worth, and finally get the recognition and promotion they deserve.
+        <br><br>
+        Created by McKell Purnell, ELEVATE! helps high-performing individuals show up, stand out, and step into their next level with bold clarity and unstoppable confidence.
+        <br><br>
+        Whether you’re aiming to move from middle management, break into the executive suite, or make a bold career transition, ELEVATE! gives you the tools, templates, and truth you need to accelerate your advancement.
+        <br><br>
+        <strong>Your next move doesn’t require more degrees or more time—it requires a strategy.</strong> That’s exactly what we build together.
+        </span>
+
   design:
     css_class: bg-gray-100
       
