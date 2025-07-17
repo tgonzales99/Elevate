@@ -3,6 +3,9 @@ title: "Meet the Founder"
 date: 2025-07-17
 type: page
 layout: page
+show_date: false
+show_social: false
+show_navigation: false
 ---
 
 
