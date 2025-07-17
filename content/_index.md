@@ -72,7 +72,7 @@ sections:
           description: Learn how to confidently communicate your value, stand out in your industry, and attract the right opportunities.
 
         - name: Promotion Readiness
-          icon: rocket
+          icon: bar-chart-3
           description: Understand the invisible rules of promotion, and develop the presence, clarity, and language to get to the next level.
 
         - name: Communication Power
