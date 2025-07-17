@@ -115,18 +115,12 @@ sections:
       items:
         - name: "David K."
           role: "Operations Lead"
-          # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
           text: "ELEVATE! gave me a framework I didn’t even know I needed. It connected the dots between how I show up, what I’m known for, and what I want next. I’m no longer just doing my job—I’m building my brand."
         - name: "Maria S."
           role: "Finance Analyst"
-          # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
           text: "This program shifted my mindset completely. I used to wait for someone to ‘notice’ me. Now, I know how to position myself, speak up, and own my growth. It’s honestly the best investment I’ve made in my career."
         - name: "John R."
           role: "Finance Analyst"
-          # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
           text: "Before ELEVATE!, I was working hard but feeling overlooked. Victory helped me realize I wasn’t invisible—I just wasn’t visible in the right ways. I finally know how to talk about my value without feeling like I’m bragging. Two months after the program, I got promoted."
     design:
       spacing:
@@ -135,14 +129,12 @@ sections:
  
   - block: cta-card
     content:
-      title: Build your future-proof website
+      title: Schedule Your Job Promotion NOW!
       text: As easy as 1, 2, 3!
       button:
         text: Get Started
-        url: https://hugoblox.com/templates/
+        url: /contact/
     design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+      background:
+        color: "#00A86B"
 ---
