@@ -36,7 +36,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "SVG-elevate-logo-new.svg"
+      filename: "PNG-elevate-logo-new.png"
     button:
       enable: true
       text: "Get Started"

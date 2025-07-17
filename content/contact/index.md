@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-layout: page
+type: widget_page
 sections:
   - widget: blank
     headless: false
