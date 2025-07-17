@@ -6,15 +6,19 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: Features
-    url: /#features
+  - name: About the Program
+    url: /#About the ELEVATE! program
     weight: 20
-  - name: Solutions
-    url: /#solutions
+  - name: Program Highlights
+    url: /#ELEVATE!
     weight: 30
-  - name: Resources
+  - name: Testimonials
+    url: /#testimonials
     weight: 40
-    hasChildren: true
-  - parent: Resources
-    name: Blog
-    url: blog/
+  - name: Meet the Founder
+    url: /founder/
+    weight: 50
+  - name: Contact
+    url: /contact/
+    weight: 60
+
