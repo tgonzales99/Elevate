@@ -61,13 +61,12 @@ sections:
       spacing:
         padding: ["1rem", 0, "1rem", 0]
  
-    - block: markdown
+  - block: markdown
     id: program
     content:
-      title: >
-        About the ELEVATE! Program
+      title: "About the ELEVATE! Program"
       text: >
-        <img src="/media/PNG-elevate-logo.png" alt="ELEVATE Logo" style="max-height: 120px; display: block; margin: 0 auto 1.5rem auto;">
+        <img src="/media/elevate-logo.png" alt="ELEVATE Logo" style="max-height: 120px; display: block; margin: 0 auto 1.5rem auto;"><br>
 
         <span style="font-size:1.125rem; text-align: center; display: block;">
         <strong>Stop Waiting. Start Winning.</strong><br>
@@ -81,9 +80,8 @@ sections:
         <br><br>
         <strong>Your next move doesn’t require more degrees or more time—it requires a strategy.</strong> That’s exactly what we build together.
         </span>
-
-  design:
-    css_class: bg-gray-100
+    design:
+      css_class: bg-gray-100
       
   - block: features
     id: features
