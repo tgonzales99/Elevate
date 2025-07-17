@@ -7,10 +7,10 @@ main:
     url: /#top
     weight: 10
   - name: About the Program
-    url: /#About the ELEVATE! program
+    url: /#about
     weight: 20
   - name: Program Highlights
-    url: /#ELEVATE!
+    url: /#features
     weight: 30
   - name: Testimonials
     url: /#testimonials
