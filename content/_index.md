@@ -20,7 +20,6 @@ sections:
       primary_action:
         text: I'm Ready to ELEVATE!
         url: /contact/
-        style: btn-primary
         icon: arrow-right
       secondary_action:
         text: Learn More About Our Founder
@@ -30,7 +29,7 @@ sections:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: hero-gradient
+      css_class: "dark text-white bg-cover bg-center md:bg-contain md:bg-top"
       background:
         color: "#00A86B" # Jade Background
         image:
@@ -61,7 +60,7 @@ sections:
           <p><em>Don’t wait to be chosen. Choose yourself.</em></p>
         </div>
     design:
-      css_class: bg-elevate-light text-[#1F2937]
+      css_class: bg-gray-100 text-gray-900 dark:bg-gray-900 dark:text-white
 
   - block: features
     id: features
@@ -112,7 +111,7 @@ sections:
             url: /contact/
     design:
       # Section background color (CSS class)
-      css_class: bg-elevate-light
+      css_class: "bg-gray-100 dark:bg-gray-900"
   
   - block: testimonials
     id: testimonials
