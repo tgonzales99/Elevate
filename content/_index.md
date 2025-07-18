@@ -34,7 +34,7 @@ sections:
         color: "#00A86B" # Jade Background
         image:
           # Add your image background to `assets/media/`.
-          filename: PNG-escalator-photo.png
+          filename: PNG-tinted-escalator.png
           filters:
             brightness: 0.5
  
