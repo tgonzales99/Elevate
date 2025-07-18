@@ -60,5 +60,5 @@ locale:
   
 assets:
   custom_css:
-    - "css/style.css"
+    - "css/custom.css"
 
