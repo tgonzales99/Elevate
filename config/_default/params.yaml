@@ -8,9 +8,9 @@ appearance:
   mode: light
   color: indigo
 
-icon: 
-  logo: media/PNG-elevate-logo-new.png #for browser tab favicon
-  favicon: true
+favicon: 
+  logo: "PNG-elevate-logo-new.png" #for browser tab favicon
+
 
 # SEO
 marketing:
