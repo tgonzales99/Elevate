@@ -39,24 +39,24 @@ sections:
     content:
       title: "About the ELEVATE! Program"
       text: >
-        <img src="/media/PNG-elevate-logo-new.png" alt="ELEVATE Logo" style="max-height: 120px; display: block; margin: 0 auto 1.5rem auto;"><br>
+        <img src="/media/PNG-elevate-logo-new.png" alt="ELEVATE Logo" style="max-height: 120px; display: block; margin: 0 auto 1.5rem auto;">
 
-        <div style="max-width: 700px; margin: 0 auto; text-align: center; font-size: 1.125rem;">
-          <strong>Your Career Is Calling. Are You Ready to Answer?</strong><br><br>
+        <div style="max-width: 700px; margin: 0 auto; text-align: center; font-size: 1.125rem; line-height: 1.6;">
+          <p><strong>Your Career Is Calling. Are You Ready to Answer?</strong></p>
 
-          The <strong>ELEVATE! Workshop</strong> is a 1-day, dynamic, and interactive experience designed for high-potential professionals who are ready to take control of their career trajectory.<br><br>
+          <p>The <strong>ELEVATE! Workshop</strong> is a 1-day, dynamic, and interactive experience designed for high-potential professionals who are ready to take control of their career trajectory.</p>
 
-          This isn’t about motivation—it’s about execution.<br><br>
+          <p>This isn’t about motivation—it’s about execution.</p>
 
-          You’ll learn how to <strong>lead, brand, and ask</strong> your way into your next promotion, with a focus on strategic presence, visibility, and professional clarity.<br><br>
+          <p>You’ll learn how to <strong>lead, brand, and ask</strong> your way into your next promotion, with a focus on strategic presence, visibility, and professional clarity.</p>
 
-          Spots are limited. Don’t miss your chance to rise.<br><br>
+          <p>Spots are limited. Don’t miss your chance to rise.</p>
 
-          <em>Don’t wait to be chosen. Choose yourself.</em>
+          <p><em>Don’t wait to be chosen. Choose yourself.</em></p>
         </div>
     design:
       css_class: bg-gray-100
-      
+
   - block: features
     id: features
     content:
@@ -91,7 +91,7 @@ sections:
     id: solutions
     content:
       items:
-        - title: This is for You if...
+        - title: This is for you if...
           text: >
           feature_icon: check
           features:
