@@ -8,8 +8,9 @@ appearance:
   mode: light
   color: indigo
 
-favicon: 
-  logo: "PNG-elevate-logo-new.png" #for browser tab favicon
+icon:
+  logo: media/favicon-32x32.png  # This is for the browser tab favicon
+  favicon: true
 
 
 # SEO
@@ -49,7 +50,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '© 2025 ELEVATE!'
 
 # Localization
 locale:
