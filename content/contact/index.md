@@ -1,9 +1,12 @@
 ---
 title: "Contact"
 layout: page
-show_date: false
-show_social: false
-show_navigation: false
+cascade:
+  featured: false
+  show:
+    date: false
+    social: false
+    navigation: false
 ---
 
 We'd love to hear from you!
