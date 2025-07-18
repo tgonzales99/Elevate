@@ -14,7 +14,7 @@ sections:
       text: >
         <div style="text-align: center;">
           🌟 A professional career advancement program designed to help you rise 🌟<br>
-          💼 Unleash your leadership, amplify your performance, and accelerate your career growth 💼
+          💼 Unleash leadership, amplify performance, and accelerate career growth 💼
         </div>
       image: SVG-elevate-logo-new.svg
       primary_action:
