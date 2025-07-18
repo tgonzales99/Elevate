@@ -11,7 +11,11 @@ sections:
   - block: hero
     content:
       title: Empower your career with ELEVATE!
-      text: 🌟 A professional career advancement program designed to help you rise 🌟
+      text: >
+        <div style="text-align: center;">
+          🌟 A professional career advancement program designed to help you rise 🌟<br>
+          💼 Equipping driven professionals to unleash leadership, amplify performance, and accelerate career growth 💼
+        </div>
       image: SVG-elevate-logo-new.svg
       primary_action:
         text: I'm Ready to ELEVATE!
