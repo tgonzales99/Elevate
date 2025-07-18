@@ -8,14 +8,16 @@ appearance:
   mode: light
   color: indigo
 
+icon: 
+  logo: media/PNG-elevate-logo-new.png #for browser tab favicon
+  favicon: true
+
 # SEO
 marketing:
   seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    site_type: Organization
+    org_name: "ELEVATE! Program"
+    description: "A career advancement program designed to help high-potential professionals get promoted."
   analytics:
     google_analytics: ''
     baidu_tongji: ''
