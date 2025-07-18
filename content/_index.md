@@ -136,5 +136,5 @@ sections:
         url: /contact/
     design:
       background:
-        color: "#00A86B"
+        color: "#2C8EB3"
 ---
