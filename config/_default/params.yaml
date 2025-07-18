@@ -9,7 +9,6 @@ appearance:
   color: indigo
 
 icon:
-  logo: static/favicon.ico.svg  # This is for the browser tab favicon
   favicon: "favicon.ico"
 
 
