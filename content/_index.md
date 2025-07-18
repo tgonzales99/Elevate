@@ -35,7 +35,7 @@ sections:
         image:
           # Add your image background to `assets/media/`.
           filename: hexagon-image.png
-          style: "background-size: contain; background-position: center; background-repeat: no-repeat;"
+          style: "background-size: 90%; background-position: center; background-repeat: no-repeat;"
           filters:
             brightness: 0.5
  
