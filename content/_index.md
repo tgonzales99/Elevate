@@ -55,7 +55,7 @@ sections:
           <em>Don’t wait to be chosen. Choose yourself.</em>
         </div>
     design:
-      css_class: "bg-gradient-to-r from-[#A3C644] to-[#2C8EB3]"
+      css_class: bg-gray-100
       
   - block: features
     id: features
