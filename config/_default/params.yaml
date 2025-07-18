@@ -40,11 +40,11 @@ header:
       text: ""
       # Logo filename in `assets/media/` folder
       filename: "PNG-elevate-logo-new.png"
-    button:
-      enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
-    show_search: true
+#    button:
+#      enable: true
+#      text: "Get Started"
+#      url: "https://hugoblox.com/templates/"
+    show_search: false
     show_theme_chooser: true
 
 # Site footer
