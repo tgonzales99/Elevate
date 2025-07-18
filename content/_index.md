@@ -55,7 +55,7 @@ sections:
           <em>Don’t wait to be chosen. Choose yourself.</em>
         </div>
     design:
-      css_class: "bg-[#A3C644]""
+      css_class: "bg-[#A3C644]"
       
   - block: features
     id: features
