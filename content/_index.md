@@ -59,7 +59,7 @@ sections:
           <p><em>Don’t wait to be chosen. Choose yourself.</em></p>
         </div>
     design:
-      css_class: bg-gray-100
+      css_class: bg-gray-100 text-gray-900 dark:bg-gray-900 dark:text-white
 
   - block: features
     id: features
