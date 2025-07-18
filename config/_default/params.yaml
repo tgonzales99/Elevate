@@ -9,8 +9,8 @@ appearance:
   color: indigo
 
 icon:
-  logo: media/favicon-32x32.png  # This is for the browser tab favicon
-  favicon: true
+  logo: static/favicon.ico.svg  # This is for the browser tab favicon
+  favicon: "favicon.ico"
 
 
 # SEO
