@@ -3,8 +3,8 @@ title: "Meet the Founder"
 date: 2025-07-17
 show_date: false
 show_reading_time: false
-type: page
-layout: page
+type: post
+layout: post
 cascade:
   featured: false
   show:
