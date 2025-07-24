@@ -3,6 +3,7 @@ title: "Contact"
 layout: contact
 show_navigation: false
 show_date: false
+show_reading_time: false
 show_social: false
 menu:
   main:
