@@ -13,8 +13,8 @@ sections:
       title: Empower your career with ELEVATE!
       text: >
         <div style="text-align: center;">
-          Tired of being overlooked for promotions?<br>
-          🌟<em>Get the step-by-step career plan to move up on your terms</em>🌟
+          🌟Tired of being overlooked for promotions?<br>
+          🌟<em>Get the step-by-step career plan to move up on your terms</em>
         </div>
       image: SVG-elevate-logo-new.svg
       primary_action:
