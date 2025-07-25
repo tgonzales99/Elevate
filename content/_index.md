@@ -34,7 +34,7 @@ sections:
         color: "#00A86B" # Jade Background
         image:
           # Add your image background to `assets/media/`.
-          filename: hexagon-image-resized.svg
+          filename: SVG hexagon-image.svg
           style: "background-size: 50%; background-position: center; background-repeat: no-repeat;"
           filters:
             brightness: 0.5
