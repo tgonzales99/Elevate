@@ -48,7 +48,7 @@ sections:
 
           <p>No fluff. Just action.</p>
 
-          <p><em>Your Career Is Calling. Ready to Rise?<em/></p>
+          <p><em>Your Career Is Calling. Ready to Rise?</em></p>
 
           <p><strong>Spots are limited. Don’t wait to be chosen. Choose yourself.</strong></p>
         </div>
@@ -86,17 +86,17 @@ sections:
 #          description: Replace self-doubt with strategic confidence so you stop waiting to be chosen and start choosing yourself.
 
   - block: cta-image-paragraph
-    id: solutions
+#    id: solutions
     content:
       items:
-        - title: This is for you if...
-          text: >
+        - title: 'For Professionals Who...'
+          text: 
           feature_icon: check
           features:
-            - "You're doing great work but still feel invisible"
-            - "You want a promotion but don't know where to start"
-            - "You're ready to lead but need more clarity, confidence, and credibility"
-            - "You want to learn how to strategically brand yourself at work"
+            - 'Are crushing it but still flying under the radar'
+            - 'Want that promotion—but don’t know how to make it happen'
+            - 'Are ready to lead with confidence and clarity'
+            - 'Are ready to own your personal brand and stand out at work'
           # Upload image to `assets/media/` and reference the filename here
           image: elevate-web-image.png
           button:
@@ -104,7 +104,7 @@ sections:
             url: /contact/
     design:
       # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      css_class: "bg-white dark:bg-gray-900"
   
   - block: testimonials
     id: testimonials
