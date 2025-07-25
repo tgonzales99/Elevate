@@ -13,23 +13,20 @@ sections:
       title: Empower your career with ELEVATE!
       text: >
         <div style="text-align: center;">
-          🌟Tired of being overlooked for promotions?<br>
-          Get the step-by-step career plan to move up—on your terms🌟
+          Tired of being overlooked for promotions?<br>
+          🌟Get the step-by-step career plan to move up—on your terms🌟
         </div>
       image: SVG-elevate-logo-new.svg
       primary_action:
         text: I'm Ready to ELEVATE!
         url: /contact/
         icon: arrow-right
-      secondary_action:
-        text: Learn More About Our Founder
-        url: /founder/
     design:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: "dark text-white bg-cover bg-center md:bg-contain md:bg-top"
+      css_class: "dark text-white bg-cover bg-center text-4xl md:text-5xl font-bold"
       background:
         color: "#00A86B" # Jade Background
         image:
