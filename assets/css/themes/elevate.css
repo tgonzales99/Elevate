@@ -1,0 +1,31 @@
+/* Custom Hugo Blox color theme - ELEVATE branding */
+
+:root {
+
+  /* Primary Gradient Colors (based on hexagon image) */
+
+  --color-primary-50: 227 244 224;       /* very light green tint */
+  --color-primary-100: 199 233 191;      /* light green tint */
+  --color-primary-200: 163 198 68;       /* Lime Green - #A3C644 */
+  --color-primary-300: 128 183 102;      /* blend between lime + teal */
+  --color-primary-400: 60 166 122;       /* Teal Green - #3CA67A */
+  --color-primary-500: 44 142 179;       /* Blue-Teal - #2C8EB3 */
+  --color-primary-600: 0 92 153;         /* dark blue accent (fallback) */
+  --color-primary-700: 0 68 119;
+  --color-primary-800: 0 51 102;
+  --color-primary-900: 0 34 68;
+
+  /* Accent and Neutrals */
+
+  --color-accent-yellow: 255 204 0;      /* #FFCC00 */
+  --color-tan-light: 245 245 220;        /* #F5F5DC */
+  --color-tan: 230 216 173;              /* #E6D8AD */
+  --color-brown: 77 59 47;               /* #4D3B2F */
+
+  /* System Colors (optional overrides) */
+
+  --color-background: 245 245 220;       /* light tan background */
+  --color-surface: 255 255 255;          /* white surface */
+  --color-text: 0 0 0;                   /* black for light backgrounds */
+  --color-text-dark-bg: 255 255 255;     /* white text on dark backgrounds */
+}
