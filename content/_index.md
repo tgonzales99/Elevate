@@ -54,51 +54,57 @@ sections:
         </div>
     design:
       css_class: bg-gray-100 text-gray-900 dark:bg-gray-900 dark:text-white
-      
+
+#  - block: features
+#    id: features
+#    content:
+#      title: ELEVATE!
+#      text: Program Highlights
+#      items:
+#        - name: Strategic Career Planning
+#          icon: calendar-days
+#          description: Create a personalized advancement roadmap that aligns your current role with your long-term vision.
+#
+#        - name: Personal Branding
+#          icon: user-circle
+#          description: Learn how to confidently communicate your value, stand out in your industry, and attract the right opportunities.
+#
+#        - name: Promotion Readiness
+#          icon: star
+#          description: Understand the invisible rules of promotion, and develop the presence, clarity, and language to get to the next level.
+#
+#        - name: Communication Power
+#          icon: microphone
+#          description: Master high-impact communication skills to speak with authority and authenticity—whether in meetings, reviews, or interviews.
+#
+#        - name: Visibility Strategy
+#          icon: eye
+#          description: Move from being overlooked to being recognized, with practical tactics to increase your influence and executive exposure.
+#
+#        - name: Mindset Shift
+#          icon: sparkles
+#          description: Replace self-doubt with strategic confidence so you stop waiting to be chosen and start choosing yourself.
+
   - block: cta-image-paragraph
+    id: solutions
     content:
       items:
-        - title: '<span style="color:#141436;">The NGU Approach</span>'
-          text: '<span style="color:#4d4d4d;">Never Give Up Transitional Living creates a supportive space where individuals with lived experiences (i.e., previously incarcerated) serve as mentors, helping participants navigate challenges related to addiction, antisocial thinking patterns, employment, and prosocial and community reintegration.<br><br>By offering structured support, the program seeks to empower participants to rebuild their lives and achieve long-term stability.<br><br>Core elements of the program include:</span>'
-          feature_icon: bolt
+        - title: This is for you if...
+          text: >
+          feature_icon: check
           features:
-            - '<span style="color:#36454F;">84 days of programming</span>'
-            - '<span style="color:#36454F;">24/7 supervision and accountability</span>'
-            - '<span style="color:#36454F;">Stable housing</span>'
-            - '<span style="color:#36454F;">Commitment to sobriety and recovery support</span>'
-            - '<span style="color:#36454F;">Employment and workforce development</span>'
-            - '<span style="color:#36454F;">Therapy and life skills development</span>'
-            - '<span style="color:#36454F;">Family, prosocial peers, and community network (re)development</span>'
-          image: GroupPhoto_2.jpg
+            - "You're doing great work but still feel invisible"
+            - "You want a promotion but don't know where to start"
+            - "You're ready to lead but need more clarity, confidence, and credibility"
+            - "You want to learn how to strategically brand yourself at work"
+          # Upload image to `assets/media/` and reference the filename here
+          image: elevate-web-image.png
           button:
-            text: Program Overview (PDF)
-            url: /docs/NGUProgramDescription.pdf
-        - title: '<span style="color:#141436;">What Makes NGU Unique?</span>'
-          text: '<span style="color:#4d4d4d;">Rooted in experience. Driven by hope.</span>'
-          feature_icon: bolt
-          features:
-            - '<span style="color:#36454F;"><strong>Built for real change.</strong> Helping people rebuild lives -- not just get by.</span>'
-            - '<span style="color:#36454F;"><strong>Out-of-the-box.</strong> Innovative methods tailored for lasting impact.</span>'
-            - '<span style="color:#36454F;"><strong>We''ve been there.</strong> Our staff have done time, and changed their lives.</span>'
-            - '<span style="color:#36454F;"><strong>We don''t give up.</strong> No matter your past, we believe in your future.</span>'
-          image: groupphoto1.jpeg
-          button:
-            text: Meet the NGU Team
-            url: /people
-            style: "background-color: #FECA1B; color: #0E2240; font-weight: 700; display: block; margin: 0 auto;"
-#        - title: Community (Re)Integration
-#          text: Our program is supported by a broad network that includes community organizations, employers, and strong partnerships with the criminal justice system.
-#          feature_icon: bolt
-#          features:
-#            - "Connections to local community organizations and universities"
-#            - "Partnerships with employers offering job opportunities"
-#            - "Collaborative support from parole officers"
-#          image: HockeyPhoto.jpeg
-#          button:
-#            text: Join Discord
-#            url: https://discord.gg/z8wNYzb
+            text: Join the next ELEVATE! Workshop
+            url: /contact/
     design:
-      css_class: "bg-[#FFFFFF]"
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
   
   - block: testimonials
     id: testimonials
