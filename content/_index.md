@@ -167,7 +167,7 @@ sections:
     design:
       css_class: "bg-white"
       card:
-        css_class: "bg-primary-700"
+        css_class: "bg-primary-300"
         css_style: ""
 
 ---
