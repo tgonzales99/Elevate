@@ -29,13 +29,12 @@ sections:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: "min-h-screen dark text-white bg-cover bg-center md:bg-contain md:bg-top"
+      css_class: "dark text-white min-h-screen bg-cover bg-center bg-no-repeat"
       background:
         color: "#00A86B" # Jade Background
         image:
           # Add your image background to `assets/media/`.
           filename: hexagon-image-resized.svg
-          style: "background-size: cover; background-position: center; background-repeat: no-repeat;"
           filters:
             brightness: 0.5
  
