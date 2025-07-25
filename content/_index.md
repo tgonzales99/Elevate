@@ -141,6 +141,28 @@ sections:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
  
+  - block: markdown
+    id: program
+    content:
+      title: "About the Founder: McKell Purnell"
+      text: >
+        <img src="/media/founder-headshot.jpg" alt="Headshot" style="max-height: 200px; display: block; margin: 0 auto 1rem auto;">
+        
+        <div style="max-width: 700px; margin: 0 auto; text-align: center; font-size: 1.125rem; line-height: 1.6;">
+
+          <p>McKell Purnell is a career strategist, speaker, and creator of the <strong>ELEVATE!</strong> program—designed to help professionals stop waiting and start winning their next promotion.</p>
+
+          <p>Born in poverty in the Caribbean and now an executive in the U.S., McKell has reinvented herself four times—teacher, actuary, consultant, leader—earning her seat at the table through grit, clarity, and strategy.</p>
+
+          <p>She’s worked at a Big 4 firm and a Fortune 100 company, coached high-potential professionals, and knows exactly how the game is played—and how to help you rise.</p>
+
+          <p>McKell blends bold insight with real-world tools to help people lead with purpose, visibility, and power. Her message?</p>
+          
+          <p><strong>Promotion starts when you see yourself differently.</strong></p>
+        </div>
+    design:
+      css_class: bg-white text-gray-900 dark:bg-gray-900 dark:text-white
+
   - block: cta-card
     content:
       title: Schedule Your Job Promotion NOW!
