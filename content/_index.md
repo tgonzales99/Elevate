@@ -28,9 +28,9 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
-        min-h-screen
+        `min-h-screen`
       # For full-screen, add `min-h-screen` below
-      css_class: "dark text-white bg-cover bg-center md:bg-contain md:bg-top"
+      css_class: "min-h-screen dark text-white bg-cover bg-center md:bg-contain md:bg-top"
       background:
         color: "#00A86B" # Jade Background
         image:
