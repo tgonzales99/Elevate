@@ -102,21 +102,21 @@ sections:
           button:
             text: Join the next ELEVATE! Workshop
             url: /contact/
-        - title: 'What You'll Master'
-          text: ""
-          feature_icon: bolt
-          features:
-            - 'Career Roadmap. Build a career plan that puts you in control.'
-            - 'Personal Branding. Show up. Stand out. Be unforgettable.'
-            - 'Promotion Playbook. Crack the code to get promoted.'
-            - 'Speak with Power. Say it like you mean it—and get heard.'
-            - 'Visibility Boost. Stop being overlooked. Start being spotlighted.'
-            - 'Mindset Reset. Ditch doubt. Move with purpose.'
-          # Upload image to `assets/media/` and reference the filename here
-          image: elevate-web-image.png
-          button:
-            text: Join the next ELEVATE! Workshop
-            url: /contact/
+#        - title: 'What You'll Master'
+#          text: ""
+#          feature_icon: bolt
+#          features:
+#            - 'Career Roadmap. Build a career plan that puts you in control.'
+#            - 'Personal Branding. Show up. Stand out. Be unforgettable.'
+#            - 'Promotion Playbook. Crack the code to get promoted.'
+#            - 'Speak with Power. Say it like you mean it—and get heard.'
+#            - 'Visibility Boost. Stop being overlooked. Start being spotlighted.'
+#            - 'Mindset Reset. Ditch doubt. Move with purpose.'
+#          # Upload image to `assets/media/` and reference the filename here
+#          image: elevate-web-image.png
+#          button:
+#            text: Join the next ELEVATE! Workshop
+#            url: /contact/
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
