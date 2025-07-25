@@ -8,33 +8,36 @@ design:
   spacing: "6rem"
 
 sections:
-- block: hero
-  content:
-    title: Empower your career with ELEVATE!
-    text: >
-      <div style="text-align: center;">
-        🌟 A professional career advancement program designed to help you rise 🌟<br>
-        💼 Unleash leadership, amplify performance, and accelerate career growth 💼
-      </div>
-    image: SVG-elevate-logo-new.svg
-    primary_action:
-      text: I'm Ready to ELEVATE!
-      url: /contact/
-      icon: arrow-right
-    secondary_action:
-      text: Learn More About Our Founder
-      url: /founder/
-  design:
-    spacing:
-      padding: [0, 0, 0, 0]
-      margin: [0, 0, 0, 0]
-    css_class: "min-h-screen dark text-white bg-cover bg-center"
-    background:
-      color: "#00A86B"
-      image:
-        filename: hexagon-image-resized.svg
-        style: "background-size: cover; background-position: center; background-repeat: no-repeat;"
-
+  - block: hero
+    content:
+      title: Empower your career with ELEVATE!
+      text: >
+        <div style="text-align: center;">
+          🌟 A professional career advancement program designed to help you rise 🌟<br>
+          💼 Unleash leadership, amplify performance, and accelerate career growth 💼
+        </div>
+      image: SVG-elevate-logo-new.svg
+      primary_action:
+        text: I'm Ready to ELEVATE!
+        url: /contact/
+        icon: arrow-right
+      secondary_action:
+        text: Learn More About Our Founder
+        url: /founder/
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
+      # For full-screen, add `min-h-screen` below
+      css_class: "min-h-screen dark text-white bg-cover bg-center md:bg-contain md:bg-top"
+      background:
+        color: "#00A86B" # Jade Background
+        image:
+          # Add your image background to `assets/media/`.
+          filename: hexagon-image-resized.svg
+          style: "background-size: cover; background-position: center; background-repeat: no-repeat;"
+          filters:
+            brightness: 0.5
  
   - block: markdown
     id: program
