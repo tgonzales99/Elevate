@@ -29,7 +29,7 @@ sections:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: "dark text-white min-h-screen bg-cover bg-center bg-no-repeat"
+      css_class: "dark text-white bg-cover bg-center bg-no-repeat"
       background:
         color: "#00A86B" # Jade Background
         image:
