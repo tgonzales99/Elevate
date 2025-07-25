@@ -53,7 +53,7 @@ sections:
           <p><strong>Spots are limited. Don’t wait to be chosen. Choose yourself.</strong></p>
         </div>
     design:
-      css_class: bg-gray-100 text-gray-900 dark:bg-gray-900 dark:text-white
+      css_class: bg-white text-gray-900 dark:bg-gray-900 dark:text-white
 
 #  - block: features
 #    id: features
@@ -106,12 +106,12 @@ sections:
           text: ""
           feature_icon: bolt
           features:
-            - 'Career Roadmap. Build a career plan that puts you in control.'
-            - 'Personal Branding. Show up. Stand out. Be unforgettable.'
-            - 'Promotion Playbook. Crack the code to get promoted.'
-            - 'Speak with Power. Say it like you mean it—and get heard.'
-            - 'Visibility Boost. Stop being overlooked. Start being spotlighted.'
-            - 'Mindset Reset. Ditch doubt. Move with purpose.'
+            - '<strong>Career Roadmap.</strong> Build a career plan that puts you in control.'
+            - '<strong>Personal Branding.</strong> Show up. Stand out. Be unforgettable.'
+            - '<strong>Promotion Playbook.</strong> Crack the code to get promoted.'
+            - '<strong>Speak with Power.</strong> Say it like you mean it—and get heard.'
+            - '<strong>Visibility Boost.</strong> Stop being overlooked. Start being spotlighted.'
+            - '<strong>Mindset Reset.</strong> Ditch doubt. Move with purpose.'
           # Upload image to `assets/media/` and reference the filename here
           image: elevate-web-image.png
           button:
