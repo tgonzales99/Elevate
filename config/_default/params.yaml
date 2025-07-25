@@ -8,9 +8,8 @@ appearance:
   mode: light
   color: elevate
 
-icon:
-  logo: PNG-elevate-logo-new.png
-  favicon: true
+sharing_image: 'PNG-elevate-logo-new.png'
+logo: 'PNG-elevate-logo-new.png'
 
 # SEO
 marketing:
