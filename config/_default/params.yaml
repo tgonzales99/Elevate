@@ -9,7 +9,7 @@ appearance:
   color: indigo
 
 icon:
-  logo: SVG-elevate-logo-new.svg
+  logo: elevatelogo.svg
   favicon: true
 
 # SEO
