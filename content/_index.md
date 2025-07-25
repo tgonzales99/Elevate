@@ -28,6 +28,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
+        min-h-screen
       # For full-screen, add `min-h-screen` below
       css_class: "dark text-white bg-cover bg-center md:bg-contain md:bg-top"
       background:
