@@ -159,13 +159,15 @@ sections:
 
   - block: cta-card
     content:
-      title: Schedule Your Job Promotion NOW!
+      title: Reserve Your Spot NOW!
       text: As easy as 1, 2, 3!
       button:
         text: Get Started
         url: /contact/
     design:
-      background:
-        color: "#2C8EB3"
+      css_class: "bg-white"
+      card:
+        css_class: "bg-[#3CA67A]"
+        css_style: ""
 
 ---
