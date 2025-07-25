@@ -9,7 +9,7 @@ appearance:
   color: elevate
 
 icon:
-  logo: elevatelogo.svg
+  logo: PNG-elevate-logo-new.png
   favicon: true
 
 # SEO
@@ -38,7 +38,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "elevatelogo.svg"
+      filename: "PNG-elevate-logo-new.png"
 #    button:
 #      enable: true
 #      text: "Get Started"
