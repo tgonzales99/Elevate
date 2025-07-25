@@ -39,16 +39,16 @@ sections:
   - block: markdown
     id: program
     content:
-      title: "What is ELEVATE?"
+      title: "What is ELEVATE!?"
       text: >
       
         <div style="max-width: 700px; margin: 0 auto; text-align: center; font-size: 1.125rem; line-height: 1.6;">
 
-          <p><strong>ELEVATE!</strong> is a 1-day interactive workshop to help you lead, brand, and ask for the promotion you deserve.</p>
+          <p>ELEVATE! is a 1-day interactive workshop to help you lead, brand, and ask for the promotion you deserve.</p>
 
           <p>No fluff. Just action.</p>
 
-          <p>Your Career Is Calling. Ready to Rise?</p>
+          <p><em>Your Career Is Calling. Ready to Rise?<em/></p>
 
           <p><strong>Spots are limited. Don’t wait to be chosen. Choose yourself.</strong></p>
         </div>
