@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: light
-  color: indigo
+  color: elevate
 
 icon:
   logo: elevatelogo.svg
@@ -38,7 +38,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "PNG-elevate-logo-new.png"
+      filename: "elevatelogo.svg"
 #    button:
 #      enable: true
 #      text: "Get Started"
