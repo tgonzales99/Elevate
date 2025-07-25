@@ -55,7 +55,6 @@ sections:
     design:
       css_class: bg-gray-100 text-gray-900 dark:bg-gray-900 dark:text-white
       
-  
   - block: cta-image-paragraph
     id: solutions
     content:
@@ -73,14 +72,6 @@ sections:
           button:
             text: Join the next ELEVATE! Workshop
             url: /contact/
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-      
-    - block: cta-image-paragraph
-    id: solutions
-    content:
-      items:
         - title: For Professionals Who...
           text: >
           feature_icon: check
