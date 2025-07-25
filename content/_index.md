@@ -39,22 +39,18 @@ sections:
   - block: markdown
     id: program
     content:
-      title: "About the ELEVATE! Program"
+      title: "What is ELEVATE?"
       text: >
-        <img src="/media/PNG-elevate-logo-new.png" alt="ELEVATE Logo" style="max-height: 120px; display: block; margin: 0 auto 1.5rem auto;">
-
+      
         <div style="max-width: 700px; margin: 0 auto; text-align: center; font-size: 1.125rem; line-height: 1.6;">
-          <p><strong>Your Career Is Calling. Are You Ready to Answer?</strong></p>
 
-          <p>The <strong>ELEVATE! Workshop</strong> is a 1-day, dynamic, and interactive experience designed for high-potential professionals who are ready to take control of their career trajectory.</p>
+          <p><strong>ELEVATE!</strong> is a 1-day interactive workshop to help you lead, brand, and ask for the promotion you deserve.</p>
 
-          <p>This isn’t about motivation—it’s about execution.</p>
+          <p>No fluff. Just action.</p>
 
-          <p>You’ll learn how to <strong>lead, brand, and ask</strong> your way into your next promotion, with a focus on strategic presence, visibility, and professional clarity.</p>
+          <p>Your Career Is Calling. Ready to Rise?</p>
 
-          <p>Spots are limited. Don’t miss your chance to rise.</p>
-
-          <p><em>Don’t wait to be chosen. Choose yourself.</em></p>
+          <p><strong>Spots are limited. Don’t wait to be chosen. Choose yourself.</strong></p>
         </div>
     design:
       css_class: bg-gray-100 text-gray-900 dark:bg-gray-900 dark:text-white
