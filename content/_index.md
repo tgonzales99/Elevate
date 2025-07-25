@@ -2,7 +2,6 @@
 title: 'Home'
 date: 2025-06-23
 type: landing
----
 
 design:
   # Default section spacing
@@ -152,3 +151,4 @@ sections:
     design:
       background:
         color: "#2C8EB3"
+---
