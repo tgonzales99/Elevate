@@ -13,8 +13,8 @@ sections:
       title: Empower your career with ELEVATE!
       text: >
         <div style="text-align: center;">
-          🌟 A professional career advancement program designed to help you rise 🌟<br>
-          💼 Unleash leadership, amplify performance, and accelerate career growth 💼
+          🌟Tired of being overlooked for promotions?<br>
+          Get the step-by-step career plan to move up—on your terms🌟
         </div>
       image: SVG-elevate-logo-new.svg
       primary_action:
