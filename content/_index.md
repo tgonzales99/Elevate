@@ -121,25 +121,19 @@ sections:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
 
-  - block: testimonials
+  - block: markdown
     id: testimonials
     content:
-      title: ""
-      text: ""
-      items:
-        - name: "David K."
-          role: "Operations Lead"
-          text: "ELEVATE! gave me a framework I didn’t even know I needed. It connected the dots between how I show up, what I’m known for, and what I want next. I’m no longer just doing my job—I’m building my brand."
-        - name: "Maria S."
-          role: "Finance Analyst"
-          text: "This program shifted my mindset completely. I used to wait for someone to ‘notice’ me. Now, I know how to position myself, speak up, and own my growth. It’s honestly the best investment I’ve made in my career."
-        - name: "John R."
-          role: "Finance Analyst"
-          text: "Before ELEVATE!, I was working hard but feeling overlooked. Victory helped me realize I wasn’t invisible—I just wasn’t visible in the right ways. I finally know how to talk about my value without feeling like I’m bragging. Two months after the program, I got promoted."
+      title: Testimonials
+      text: >
+        <div style="display: flex; justify-content: center; padding: 2rem 0;">
+          <video autoplay loop muted playsinline style="max-width: 100%; border-radius: 12px;">
+            <source src="/media/testimonials.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+        </div>
     design:
-      spacing:
-        # Reduce bottom spacing so the testimonial appears vertically centered between sections
-        padding: ["6rem", 0, 0, 0]
+      css_class: "bg-white"
  
   - block: markdown
     id: program
@@ -161,7 +155,7 @@ sections:
           <p><strong>Promotion starts when you see yourself differently.</strong></p>
         </div>
     design:
-      css_class: bg-white text-gray-900 dark:bg-gray-900 dark:text-white
+      css_class: bg-gray-100 text-gray-900 dark:bg-gray-900 dark:text-white
 
   - block: cta-card
     content:
