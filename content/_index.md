@@ -90,7 +90,7 @@ sections:
     content:
       items:
         - title: 'For Professionals Who...'
-          text: 
+          text: ""
           feature_icon: check
           features:
             - 'Are crushing it but still flying under the radar'
@@ -103,7 +103,7 @@ sections:
             text: Join the next ELEVATE! Workshop
             url: /contact/
         - title: 'What You'll Master'
-          text: 
+          text: ""
           feature_icon: bolt
           features:
             - '<strong>Career Roadmap.</strong> Build a career plan that puts you in control.'
