@@ -39,7 +39,7 @@ sections:
   - block: markdown
     id: program
     content:
-      title: "What is ELEVATE!?"
+      title: "What is ELEVATE?"
       text: >
       
         <div style="max-width: 700px; margin: 0 auto; text-align: center; font-size: 1.125rem; line-height: 1.6;">
@@ -54,12 +54,13 @@ sections:
         </div>
     design:
       css_class: bg-gray-100 text-gray-900 dark:bg-gray-900 dark:text-white
-
-- block: cta-image-paragraph
+      
+  
+  - block: cta-image-paragraph
     id: solutions
     content:
       items:
-        - title: For professionals who...
+        - title: For Professionals Who...
           text: >
           feature_icon: check
           features:
@@ -105,27 +106,6 @@ sections:
         - name: Mindset Shift
           icon: sparkles
           description: Replace self-doubt with strategic confidence so you stop waiting to be chosen and start choosing yourself.
-
-  - block: cta-image-paragraph
-    id: solutions
-    content:
-      items:
-        - title: This is for you if...
-          text: >
-          feature_icon: check
-          features:
-            - "You're doing great work but still feel invisible"
-            - "You want a promotion but don't know where to start"
-            - "You're ready to lead but need more clarity, confidence, and credibility"
-            - "You want to learn how to strategically brand yourself at work"
-          # Upload image to `assets/media/` and reference the filename here
-          image: elevate-web-image.png
-          button:
-            text: Join the next ELEVATE! Workshop
-            url: /contact/
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
   
   - block: testimonials
     id: testimonials
