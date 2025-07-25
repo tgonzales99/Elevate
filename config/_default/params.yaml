@@ -9,8 +9,8 @@ appearance:
   color: indigo
 
 icon:
-  favicon: "favicon.ico.ico"
-
+  logo: SVG-elevate-logo-new.svg
+  favicon: true
 
 # SEO
 marketing:
