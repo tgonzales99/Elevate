@@ -55,6 +55,27 @@ sections:
     design:
       css_class: bg-gray-100 text-gray-900 dark:bg-gray-900 dark:text-white
 
+- block: cta-image-paragraph
+    id: solutions
+    content:
+      items:
+        - title: For professionals who...
+          text: >
+          feature_icon: check
+          features:
+            - "Are crushing it but still flying under the radar"
+            - "Want that promotion—but don’t know how to make it happen"
+            - "Are ready to lead with confidence and clarity"
+            - "Are ready to own your personal brand and stand out at work"
+          # Upload image to `assets/media/` and reference the filename here
+          image: elevate-web-image.png
+          button:
+            text: Join the next ELEVATE! Workshop
+            url: /contact/
+    design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
+
   - block: features
     id: features
     content:
