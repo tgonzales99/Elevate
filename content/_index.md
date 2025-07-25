@@ -41,7 +41,7 @@ sections:
     content:
       title: "What is ELEVATE?"
       text: >
-      
+
         <div style="max-width: 700px; margin: 0 auto; text-align: center; font-size: 1.125rem; line-height: 1.6;">
 
           <p>ELEVATE! is a 1-day interactive workshop to help you lead, brand, and ask for the promotion you deserve.</p>
@@ -120,7 +120,7 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
-  
+
   - block: testimonials
     id: testimonials
     content:
@@ -151,4 +151,5 @@ sections:
     design:
       background:
         color: "#2C8EB3"
+
 ---
