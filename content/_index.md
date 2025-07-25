@@ -14,7 +14,7 @@ sections:
       text: >
         <div style="text-align: center;">
           Tired of being overlooked for promotions?<br>
-          🌟Get the step-by-step career plan to move up—on your terms🌟
+          🌟<em>Get the step-by-step career plan to move up—on your terms</em>🌟
         </div>
       image: SVG-elevate-logo-new.svg
       primary_action:
@@ -26,7 +26,7 @@ sections:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: "dark text-white bg-cover bg-center text-3xl md:text-3xl font-bold"
+      css_class: "dark text-white bg-cover bg-center text-3xl md:text-3xl"
       background:
         color: "#00A86B" # Jade Background
         image:
