@@ -78,3 +78,17 @@ button, .btn, .button {
 .btn-accent:hover, .button-accent:hover {
   background-color: #8CAF3A; /* Darker Lime Green */
 }
+
+.hero-accent-btn .btn-primary {
+  background-color: #A3C644 !important; /* Lime Green */
+  color: #003366 !important;            /* Deep Blue Text */
+  font-weight: 600;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.75rem 1.5rem;
+}
+
+.hero-accent-btn .btn-primary:hover {
+  background-color: #8DB530 !important; /* Slightly darker green */
+  color: #001F3F !important;
+}
