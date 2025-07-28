@@ -37,6 +37,20 @@ sections:
             brightness: 0.5
  
   - block: markdown
+    id: testimonials
+    content:
+      title: Testimonials
+      text: >
+        <div style="display: flex; justify-content: center; padding: 2rem 0;">
+          <video autoplay loop muted playsinline style="max-width: 100%; border-radius: 12px;">
+            <source src="/media/testimonials.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+        </div>
+    design:
+      css_class: "bg-white"
+ 
+  - block: markdown
     id: program
     content:
       title: "What is ELEVATE?"
@@ -122,21 +136,7 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
 
   - block: markdown
-    id: testimonials
-    content:
-      title: Testimonials
-      text: >
-        <div style="display: flex; justify-content: center; padding: 2rem 0;">
-          <video autoplay loop muted playsinline style="max-width: 100%; border-radius: 12px;">
-            <source src="/media/testimonials.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
-        </div>
-    design:
-      css_class: "bg-white"
- 
-  - block: markdown
-    id: program
+    id: founder
     content:
       title: "About the Founder: McKell Purnell"
       text: >
