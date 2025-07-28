@@ -128,7 +128,7 @@ sections:
             - '<strong>Visibility Boost.</strong> Stop being overlooked. Start being spotlighted.'
             - '<strong>Mindset Reset.</strong> Ditch doubt. Move with purpose.'
           # Upload image to `assets/media/` and reference the filename here
-          image: meetingimage/jpg
+          image: meetingimage.jpg
           button:
             text: Join the next ELEVATE! Workshop
             url: /contact/
