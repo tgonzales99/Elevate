@@ -107,7 +107,7 @@ sections:
 #          description: Replace self-doubt with strategic confidence so you stop waiting to be chosen and start choosing yourself.
 
   - block: cta-image-paragraph
-#    id: solutions
+    id: details
     content:
       items:
         - title: 'For Professionals Who...'

@@ -6,16 +6,19 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: About the Program
+  - name: Program Overview
     url: /#program
     weight: 20
   - name: Testimonials
     url: /#testimonials
     weight: 30
+  - name: Program Details
+    url: /#details
+    weight: 40
   - name: Meet the Founder
     url: /#founder
-    weight: 40
+    weight: 50
   - name: Contact
     url: /contact/
-    weight: 50
+    weight: 60
 
