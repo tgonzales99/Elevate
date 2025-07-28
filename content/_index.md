@@ -61,7 +61,7 @@ sections:
       title: Testimonials
       text: >
         <div style="display: flex; justify-content: center; padding: 2rem 0;">
-          <video autoplay loop muted playsinline style="width: 900px; border-radius: 12px;">
+          <video autoplay loop muted playsinline style="max-width: 100%; border-radius: 12px;">
             <source src="/media/testimonials.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
@@ -152,7 +152,7 @@ sections:
 
           <p>McKell blends bold insight with real-world tools to help people lead with purpose, visibility, and power. Her message?</p>
           
-          <p><strong>Promotion starts when you see yourself differently.</strong></p>
+          <p><strong>When you're stuck in your mind, you're stuck in your life. Promotion starts long before someone says ‘yes’—it begins the moment you see yourself differently.</strong></p>
         </div>
     design:
       css_class: bg-gray-100 text-gray-900 dark:bg-gray-900 dark:text-white

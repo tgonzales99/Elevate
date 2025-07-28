@@ -19,8 +19,8 @@ cascade:
     editable: true
     hide_date: false
     show_date_updated: true
-    reading_time: true
-    commentable: true
+    #reading_time: true
+    #commentable: true
     show_related: true
     share: true
     # Just use Breadcrumb for navigation on blog post pages?
@@ -33,7 +33,7 @@ cascade:
       path: /blog/*
       kind: section
     # Set the listing view
-    view: date-title-summary
+    #view: date-title-summary
 
 ############################
 ## LANGUAGE
