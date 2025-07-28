@@ -26,7 +26,7 @@ sections:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: "btn-primary dark text-white bg-cover bg-center text-2xl md:text-2xl"
+      css_class: "hero-accent-btn dark text-white bg-cover bg-center text-2xl md:text-2xl"
       background:
         color: "#00A86B" # Jade Background
         image:
