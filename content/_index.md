@@ -21,6 +21,7 @@ sections:
         text: I'm Ready to ELEVATE!
         url: /contact/
         icon: arrow-right
+        style: accent
     design:
       spacing:
         padding: [0, 0, 0, 0]
