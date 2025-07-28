@@ -10,7 +10,7 @@ main:
     url: /#program
     weight: 20
   - name: Testimonials
-    url: /#tetsimonials
+    url: /#testimonials
     weight: 30
   - name: Meet the Founder
     url: /#founder
