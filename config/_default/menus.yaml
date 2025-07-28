@@ -12,13 +12,10 @@ main:
   - name: About the Program
     url: /#program
     weight: 30
-  - name: Testimonials
-    url: /#testimonials
-    weight: 40
   - name: Meet the Founder
     url: /#founder
-    weight: 50
+    weight: 40
   - name: Contact
     url: /contact/
-    weight: 60
+    weight: 50
 
