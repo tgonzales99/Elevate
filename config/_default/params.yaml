@@ -9,7 +9,7 @@ appearance:
   color: elevate
 
 icon:
-  logo: favicon.png
+  logo: media/favicon.png
   favicon: true
 
 # SEO
