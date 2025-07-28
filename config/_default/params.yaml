@@ -8,9 +8,8 @@ appearance:
   mode: light
   color: elevate
 
-icon:
-  logo: media/favicon.png
-  favicon: true
+params:
+  favicon: favicon.png
 
 # SEO
 marketing:
