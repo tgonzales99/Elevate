@@ -62,7 +62,7 @@ sections:
       text: >
         <div style="display: flex; justify-content: center; padding: 2rem 0;">
           <video autoplay loop muted playsinline 
-            style="transform: scale(2); transform-origin: center; border-radius: 12px;">
+            style="transform: scale(1.5); transform-origin: center; border-radius: 12px;">
             <source src="/media/testimonials.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
