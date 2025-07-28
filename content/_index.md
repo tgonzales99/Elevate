@@ -67,7 +67,7 @@ sections:
           </video>
         </div>
     design:
-      css_class: "bg-white"
+      css_class: bg-gray-100
 
 #  - block: features
 #    id: features
@@ -133,7 +133,7 @@ sections:
             url: /contact/
     design:
       # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      css_class: "bg-white dark:bg-gray-900"
 
   - block: markdown
     id: founder
