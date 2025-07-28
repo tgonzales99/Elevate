@@ -52,6 +52,11 @@ sections:
 
           <p><strong>Spots are limited. Don’t wait to be chosen. Choose yourself.</strong></p>
         </div>
+    
+        <div style="text-align: center; margin-top: 2rem;">
+          <img src="/media/groupphoto.jpg" alt="ELEVATE workshop visual" style="max-width: 100%; border-radius: 12px;" />
+        </div>
+        
     design:
       css_class: bg-white text-gray-900 dark:bg-gray-900 dark:text-white
       
