@@ -113,7 +113,7 @@ sections:
             - 'Are ready to lead with confidence and clarity'
             - 'Are ready to own your personal brand and stand out at work'
           # Upload image to `assets/media/` and reference the filename here
-          image: elevate-web-image.png
+          image: meetingimage.jpg
           button:
             text: Join the next ELEVATE! Workshop
             url: /contact/
@@ -128,7 +128,7 @@ sections:
             - '<strong>Visibility Boost.</strong> Stop being overlooked. Start being spotlighted.'
             - '<strong>Mindset Reset.</strong> Ditch doubt. Move with purpose.'
           # Upload image to `assets/media/` and reference the filename here
-          image: elevate-web-image.png
+          image: meetingimage/jpg
           button:
             text: Join the next ELEVATE! Workshop
             url: /contact/
