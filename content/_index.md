@@ -35,21 +35,7 @@ sections:
           style: "background-size: 50%; background-position: center; background-repeat: no-repeat;"
           filters:
             brightness: 0.5
- 
-  - block: markdown
-    id: testimonials
-    content:
-      title: Testimonials
-      text: >
-        <div style="display: flex; justify-content: center; padding: 2rem 0;">
-          <video autoplay loop muted playsinline style="max-width: 100%; border-radius: 12px;">
-            <source src="/media/testimonials.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
-        </div>
-    design:
-      css_class: "bg-white"
- 
+
   - block: markdown
     id: program
     content:
@@ -68,6 +54,20 @@ sections:
         </div>
     design:
       css_class: bg-white text-gray-900 dark:bg-gray-900 dark:text-white
+      
+  - block: markdown
+    id: testimonials
+    content:
+      title: Testimonials
+      text: >
+        <div style="display: flex; justify-content: center; padding: 2rem 0;">
+          <video autoplay loop muted playsinline style="max-width: 100%; border-radius: 12px;">
+            <source src="/media/testimonials.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+        </div>
+    design:
+      css_class: "bg-white"
 
 #  - block: features
 #    id: features
