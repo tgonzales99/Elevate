@@ -62,7 +62,7 @@ button, .btn, .button {
 }
 
 .btn-primary, .button-primary {
-  background-color: #2C8EB3; /* Blue-Teal */
+  background-color: #A3C644; /* Lime Green */
   color: #FFFFFF;
 }
 
@@ -72,7 +72,7 @@ button, .btn, .button {
 }
 
 .btn-primary:hover, .button-primary:hover {
-  background-color: #20799B; /* Darker Blue-Teal */
+  background-color: #003366; /* Deep blue for contrast */
 }
 
 .btn-accent:hover, .button-accent:hover {
