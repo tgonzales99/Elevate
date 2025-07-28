@@ -117,6 +117,7 @@ sections:
           button:
             text: Join the next ELEVATE! Workshop
             url: /contact/
+            
         - title: 'What You''ll Master'
           text: ""
           feature_icon: bolt
