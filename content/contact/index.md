@@ -16,7 +16,11 @@ We'd love to hear from you!
 
 Whether you're interested in joining the ELEVATE! Program, booking McKell to speak, or just have a question, reach out using the form below or email us at [mckellpurnell@gmail.com](mailto:tagonzales99@gmail.com).
 
-<form name="contact" method="POST" data-netlify="true">
+<form action="https://formsubmit.io/send/tagonzales99@gmail.com" method="POST">
+  <input name="_redirect" type="hidden" value="/thank-you/">
+  <input name="_email.template.title" type="hidden" value="ELEVATE Contact Form Submission">
+  <input name="_email.subject" type="hidden" value="New Contact Message from ELEVATE Site">
+
   <p>
     <label>Your Name:</label><br>
     <input type="text" name="name" required style="width: 100%; padding: 10px; border: 2px solid #ccc; border-radius: 4px;">
