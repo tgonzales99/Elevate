@@ -14,7 +14,7 @@ menu:
 
 We'd love to hear from you!
 
-Whether you're interested in joining the ELEVATE! Program, booking McKell to speak, or just have a question, reach out using the form below or email us at [mckellpurnell@gmail.com](mailto:mckellpurnell@gmail.com).
+Whether you're interested in joining the ELEVATE! Program, booking McKell to speak, or just have a question, reach out using the form below or email us at [mckellpurnell@gmail.com](mailto:tagonzales99@gmail.com).
 
 <form name="contact" method="POST" data-netlify="true">
   <p>
