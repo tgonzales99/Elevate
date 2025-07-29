@@ -14,12 +14,11 @@ menu:
 
 We'd love to hear from you!
 
-Whether you're interested in joining the ELEVATE! Program, booking McKell to speak, or just have a question, reach out using the form below or email us at [mckellpurnell@gmail.com](mailto:tagonzales99@gmail.com).
+Whether you're interested in joining the ELEVATE! Program, booking McKell to speak, or just have a question, reach out using the form below or email us at [mckellpurnell@gmail.com](mailto:mckellpurnell@gmail.com).
 
-<form action="https://formsubmit.io/send/tagonzales99@gmail.com" method="POST">
-  <input name="_redirect" type="hidden" value="/thank-you/">
-  <input name="_email.template.title" type="hidden" value="ELEVATE Contact Form Submission">
-  <input name="_email.subject" type="hidden" value="New Contact Message from ELEVATE Site">
+<form action="https://formspree.io/f/mwpqbzyk" method="POST">
+  <input type="hidden" name="_subject" value="New Contact Message from ELEVATE Site">
+  <input type="hidden" name="_redirect" value="/thank-you/">
 
   <p>
     <label>Your Name:</label><br>
@@ -37,4 +36,3 @@ Whether you're interested in joining the ELEVATE! Program, booking McKell to spe
     <button type="submit" style="padding: 10px 20px; background-color: #00A86B; color: white; border: none; border-radius: 4px;">Send</button>
   </p>
 </form>
-
